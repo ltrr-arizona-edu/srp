@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /dplarchive
+Disallow: /netdoc
+Disallow: /geos220/f2000lectures
+Disallow: /webhome/sheppard/geos220
+Disallow: /geos220/f2001lectures
+Disallow: /nats101/s2001lectures
+Disallow: /webhome/fenbiao/pdoWeb/proxyData
+Disallow: /webhome/pgress/society
+
